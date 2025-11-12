@@ -8,7 +8,7 @@ file summary and quiz creator for an student and teacher
 # (Auth) Login:
         https://studentgenifilesummaryandquiz.vercel.app/auth/login
 # (Auth) Me:
-        https://studentgenifilesummaryandquiz.vercel.app/auth/login
+        https://studentgenifilesummaryandquiz.vercel.app/auth/me
 
 # (Teacher) AllFiles:
         https://studentgenifilesummaryandquiz.vercel.app/file
